@@ -10,13 +10,22 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on *Audio Feature Extraction, Emotion Detection, Emotion Classification*
+
 - 🌱 I’m currently learning *Machine Learning, Front-End Development, Blockchain, OpenCV*
+
 - :eyes: Things I know: *Python, Flask, C/C++, JavaScript (React, TypeScript), Bash, Basic Front-End*  
+
 - 👯 I’m looking to collaborate on *Audio Feature Extraction*
+
 - 🤔 I’m looking for help with *Machine Learning, DJango, C#*
+
 - :open_hands: I'm looking for: *A team for Hackathons*
+
 - 💬 Ask me about *Football, Anime, Hardware, Linux*
+
 - 📫 How to reach me: *Mail me maybe - [vybhavchaturvedi@gmail.com](vybhavchaturvedi@gmail.com)*
+
 - 😄 Pronouns: *He/Him*
+
 - ⚡ Fun fact: *Was looking for ways to ~~die~~, found coding.*
-- 
+
