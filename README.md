@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 #### My Rough GitHub Stats - 
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=vybhav72954&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)](https://github.com/vybhav72954)
 
-#### Languages Used -
+#### Languages I prefer -
+[![Top 5 Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
