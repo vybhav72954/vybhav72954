@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: *Was looking for ways to ~~die~~, found coding.*
 
+#### My Rough GitHub Stats - 
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=vybhav72954&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)](https://github.com/vybhav72954)
+
+#### Languages Used -
+
+
