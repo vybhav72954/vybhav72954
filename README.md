@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: *Was looking for ways to ~~die~~, found coding.*
 
 
+![Profile views](https://gpvc.arturio.dev/vybhav72954)
+
+
 #### Languages I prefer -
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
