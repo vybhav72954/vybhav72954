@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: *Was looking for ways to ~~die~~, found coding.*
 
 
-![Profile views](https://gpvc.arturio.dev/vybhav72954)
 
+<!--![Profile views](https://gpvc.arturio.dev/vybhav72954)-->
 
 #### Languages I prefer -
 
