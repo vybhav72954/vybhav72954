@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Audio Feature Extraction, Emotion Detection, Emotion Classification*
 
-- 🌱 I’m currently learning *Machine Learning, Front-End Development, Blockchain, OpenCV*
+- 🌱 I’m currently learning *Machine Learning, Front-End Development, Blockchain, OpenCV, MERN*
 
 - :eyes: Things I know: *Python, Flask, C/C++, JavaScript (React, TypeScript), Bash, Basic Front-End*  
 
