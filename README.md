@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about *Football, Anime, Hardware, Linux*
 
-- 📫 How to reach me: *Mail me maybe - [vybhavchaturvedi@gmail.com](vybhavchaturvedi@gmail.com)*
+- 📫 How to reach me: *Mail me maybe - [vybhavchaturvedi@gmail.com](mailto:vybhavchaturvedi@gmail.com)*
 
 - 😄 Pronouns: *He/Him*
 
