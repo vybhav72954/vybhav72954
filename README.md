@@ -33,5 +33,17 @@ Here are some ideas to get you started:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="40" height="40"/> </p>
+<p align="center">
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C-Sharp" width="40" height="40"/> 
+<img src="https://https://cdn.svgporn.com/logos/mongodb.svg" alt="Mongo-DB" width="36" height="36"/>  
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
+</p>
 <p align="center"> <img src="https://github-readme-stats-abserari.vercel.app/api?username=vybhav72954&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="vybhav72954" /> </p>
