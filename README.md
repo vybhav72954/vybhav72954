@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
 </p>
-<p align="center"> <img src="https://github-readme-stats-abserari.vercel.app/api?username=vybhav72954&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="vybhav72954" /> </p>
+[![Vybhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
