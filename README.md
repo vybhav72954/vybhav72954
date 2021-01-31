@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C-Sharp" width="40" height="40"/> 
-<img src="https://https://cdn.svgporn.com/logos/mongodb.svg" alt="Mongo-DB" width="36" height="36"/>  
+<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="Mongo-DB" width="36" height="36"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
 </p>
-![Vybhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true)
+
+[![Vybhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
