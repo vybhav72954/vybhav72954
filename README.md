@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 #### Languages I prefer -
 
 <p align="center">
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact" alt="Languages"/> 
 </p>
 
 <p align="center">
@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-[![Vybhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true&show_icons=true&theme=radical" alt="Stats"/> 
 </p>
