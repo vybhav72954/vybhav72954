@@ -26,11 +26,18 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: *Was looking for ways to ~~die~~, found coding.*
 
+- :notebook_with_decorative_cover: **My Patents**: 
+    - Application Number: [2021101097](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021101097)
+    - Granted By: [IP Australia](https://www.ipaustralia.gov.au/)
+    - Certificate of Grant: [Click Here]()
+
 ![Profile views](https://gpvc.arturio.dev/vybhav72954)
 
 #### Languages I prefer -
 
+<p align="center">
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align="center">
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
@@ -47,5 +54,6 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="center">
 [![Vybhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
