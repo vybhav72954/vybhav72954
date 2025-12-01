@@ -41,15 +41,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C-Sharp" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="Mongo-DB" width="36" height="36"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
 </p>
 
