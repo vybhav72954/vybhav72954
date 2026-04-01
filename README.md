@@ -98,12 +98,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vybhav72954&count_private=true&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-brown-two.vercel.app/api?username=vybhav72954&count_private=true&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=vybhav72954&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-brown-two.vercel.app/api/top-langs/?username=vybhav72954&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
