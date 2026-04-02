@@ -25,10 +25,11 @@
 
 | | |
 |---|---|
-| 🏛️ **ISI Kolkata** | M.Tech — currently enrolled |
+| 🏛️ **ISI Kolkata** | PGDBA — Applies Statistics |
 | 🏛️ **IIM Calcutta** | PGDBA — Business Analytics |
-| 🏛️ **IIT Kharagpur** | B.Tech — Computer Engineering |
+| 🏛️ **IIT Kharagpur** | PGDBA — Data Science |
 | 🏢 **ZS Associates** | Ex — Data Science & Analytics |
+| 🏛️ **Thapar University** | B.Tech + MBA (Comp Science) |
 
 ---
 
